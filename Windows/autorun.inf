@@ -1,0 +1,5 @@
+[autorun]
+open=autorun.bat
+action=MediaTek MT7922 Driver
+label=MediaTek MT7922 Driver
+icon=autorun.bat,0
